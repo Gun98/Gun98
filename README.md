@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요</h1>
+<h1 align="center">안녕하세요 GUN98-</h1>
 
 
 
@@ -13,8 +13,9 @@
   
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <br>
-  <br>
-<h2>Tech Stack</h2> 
+
+  
+
 
 <!-- Languages -->
 
